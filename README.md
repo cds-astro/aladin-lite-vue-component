@@ -1,4 +1,4 @@
-# aladin-lite
+# A Vue component for Aladin-lite
 
 ## Project setup
 ```
